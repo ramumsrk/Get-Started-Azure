@@ -1,0 +1,15 @@
+Installed packages
+Name            : azure-cli
+Epoch           : 0
+Version         : 2.90.0
+Release         : 1.el10
+Architecture    : x86_64
+Installed size  : 465.6 MiB
+Source          : azure-cli-2.90.0-1.el10.src.rpm
+From repository : packages-microsoft-com-prod
+Summary         : Azure CLI
+URL             : https://learn.microsoft.com/cli/azure/install-azure-cli
+License         : MIT
+Description     : A great cloud needs great tools; we're excited to introduce Azure CLI,
+                :  our next generation multi-platform command line experience for Azure.
+Vendor          : <NULL>

@@ -1,0 +1,7 @@
+# [What is Infrastructure as Code with Terraform?](https://developer.hashicorp.com/terraform/tutorials/azure-get-started/infrastructure-as-code)
+## [Manage any infrastructure](./Manage-any-infrastructure/)
+## [Standardize your deployment workflow](./Standardize-your-deployment-workflow/)
+## [Track your infrastructure](./Track-your-infrastructure/)
+## [Collaborate](./Collaborate/)
+## [Quick Start](./Quick-Start/)
+## [Next steps](./Next-steps/)

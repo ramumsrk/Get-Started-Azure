@@ -1,0 +1,14 @@
+Installed packages
+Name            : terraform
+Epoch           : 0
+Version         : 1.16.4
+Release         : 1
+Architecture    : x86_64
+Installed size  : 115.0 MiB
+Source          : terraform-1.16.4-1.src.rpm
+From repository : hashicorp
+Summary         : Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+URL             : https://terraform.io/
+License         : BUSL-1.1
+Description     : Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+Vendor          : HashiCorp

@@ -1,0 +1,2 @@
+# Learn more about HCP Terraform
+[follow the HCP Terraform getting started tutorials](https://developer.hashicorp.com/terraform/tutorials/cloud-get-started) [commercial solutions](https://www.hashicorp.com/products/terraform/pricing)

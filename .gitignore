@@ -1,0 +1,13 @@
+# ignore `/.terraform/' directory
+# tree and its anywhere in the
+# worktree
+**/.terraform/
+# ignore `.terraform.state' and
+# `.terraform.state.backup' files
+# anywhere in worktree
+**/terraform.tfstate
+**/terraform.tfstate.backup
+# ignore `/Create-a-Service-Principal/' directory tree anywhere in worktree
+**/Create-a-Service-Principal/
+# ignore `/Set-your-environment-variables/' directory tree anywhere in worktree
+**/Set-your-environment-variables/

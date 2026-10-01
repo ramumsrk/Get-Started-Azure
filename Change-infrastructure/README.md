@@ -1,0 +1,7 @@
+# [Change infrastructure](https://developer.hashicorp.com/terraform/tutorials/azure-get-started/azure-change)
+## [Change infrastructure](./Change-infrastructure/)
+## [Create a new resource](./Create-a-new-resource/)
+## [Apply your changes](./Apply-your-changes/)
+## [Modify an existing resource](./Modify-an-existing-resource/)
+## [Apply your changes](./Apply-your-changes-01/)
+## [Review updates to state](./Review-updates-to-state/)

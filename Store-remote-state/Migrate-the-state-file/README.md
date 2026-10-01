@@ -1,0 +1,31 @@
+# Migrate the state file
+```bash
+terraform -chdir=/home/ramumsrk/Documents/ata_1_0_TiB/Get-Started-Azure/learn-terraform-azure init
+Initializing HCP Terraform...
+Do you wish to proceed?
+  As part of migrating to HCP Terraform, Terraform can optionally copy
+  your current workspace state to the configured HCP Terraform workspace.
+  
+  Answer "yes" to copy the latest state snapshot to the configured
+  HCP Terraform workspace.
+  
+  Answer "no" to ignore the existing state and just activate the configured
+  HCP Terraform workspace with its existing state, if any.
+  
+  Should Terraform migrate your existing state?
+
+  Enter a value: yes
+
+
+Initializing provider plugins...
+- Reusing previous version of hashicorp/azurerm from the dependency lock file
+- Using previously-installed hashicorp/azurerm v3.0.2
+
+HCP Terraform has been successfully initialized!
+
+You may now begin working with HCP Terraform. Try running "terraform plan" to
+see any changes that are required for your infrastructure.
+
+If you ever set or change modules or Terraform Settings, run "terraform init"
+again to reinitialize your working directory.
+```
